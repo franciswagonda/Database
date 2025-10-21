@@ -1,5 +1,5 @@
 
-create database UCU_records;
+create database Student;
 
 show databases;
 
